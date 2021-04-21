@@ -15,6 +15,9 @@ function App() {
       <hr />
 
       <Student firstStudentName={"Muhammad Moiz"} dish={"Chicken Pilao"} age={"25"} stdNo={x++} />
+      <hr />
+
+      <Student firstStudentName={"Muhammad Yasir"} dish={"Pizza Paratha"} age={"21"} stdNo={x++} />
 
     </div>
 
